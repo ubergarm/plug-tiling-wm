@@ -1,12 +1,10 @@
-plug-tiling-wm
-===
+[![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
 *Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion*
 
 or
 
 *Drilling down on Linux Tiling Windows Managers from big bang to "ricing" your configuration with "dank" gaps.*
-
-[![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Brief History of Human Machine Interfaces
 * Big Bang
@@ -72,10 +70,21 @@ or
 * Menu / Launch Bar
   - dmenu
   - rofi
+* Utilities
+  - xrandr
+  - compton
+  - nitrogen
+  - xscreensaver
 * Applications
   - mupdf
   - sxiv
   - tig
+  - pass
+  - mpv
+  - gimp
+  - slack
+  - alsamixer
+  - firefox quantum
 
 ## Demo
 Check out my system.
@@ -83,6 +92,11 @@ Check out my system.
 ## The Downsides
 * Clipboards
 * Configuration
+  - initial setup
+  - recompiling binaries
+  - wifi networks
+  - package management
+* The rest of the world sends you XLSX files
 
 ## Summary
 > Only computer hackers who have delved into the inconvenient guts of
