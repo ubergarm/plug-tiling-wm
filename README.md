@@ -75,6 +75,7 @@ or
   - xrandr
   - compton
   - nitrogen
+  - xclip
   - xscreensaver
 * Applications
   - mupdf
@@ -85,10 +86,37 @@ or
   - gimp
   - slack
   - alsamixer
+  - pulseaudio (only for firefox)
   - firefox quantum
 
 ## Demo
 Check out my system.
+
+#### `.xinitrc`
+```bash
+## setup monitor and resolution
+xrandr --newmode "4096x2160" 556.730  4096 4104 4136 4176  2160 2208 2216 2222 +hsync +vsync
+xrandr --addmode DP-0 4096x2160
+xrandr --output DP-0 --mode 4096x2160
+## compositing transparency
+compton -b -c -o 0.25
+## pretty wallpaper
+nitrogen --set-zoom-fill ~/wallpapers/jenaro-bekannt-wie-ein-bunter-hund.jpg
+## sreensaver
+xscreensaver -no-splash &
+## status bar
+while true; do
+    slstatus
+done &
+## windows manager
+exec dwm
+```
+
+## The Upsides
+* Cool factor
+* Less cruft
+* Less mouse
+* Forces you to learn CLI tools which work across ssh terminals
 
 ## The Downsides
 * Clipboards
