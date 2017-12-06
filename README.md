@@ -47,7 +47,7 @@ or
     + Lightweight / Various - custom
     + Tiling Windows Managers / Various - custom
 
-## Components
+## Linux Desktops Components
 * Desktop
   - Monitor(s)
   - Video Card(s)
@@ -56,8 +56,11 @@ or
   - Refresh
   - Transparency Effects
   - Wallpaper
-* Windows
-  - Tiled
+* Window Managers
+  - Tiling
+    + [dwm - dynamic window manager](https://dwm.suckless.org/)
+    + [xmonad - haskell](http://xmonad.org/)
+    + [i3 - improved improved improved](https://i3wm.org/)
   - Floating
 * Terminal
   - Fonts
@@ -69,6 +72,17 @@ or
 * Menu / Launch Bar
   - dmenu
   - rofi
+* Applications
+  - mupdf
+  - sxiv
+  - tig
+
+## Demo
+Check out my system.
+
+## The Downsides
+* Clipboards
+* Configuration
 
 ## Summary
 > Only computer hackers who have delved into the inconvenient guts of
@@ -77,22 +91,6 @@ or
 > slipshod corporate taskmasters. You know what I think makes an operating
 > system truly great? Its ability to help me GET MY WORK DONE.
 > - Garrett Birkel http://garote.bdmonkeys.net/commandline/index.html
-
-## The Downsides
-* Clipboards
-* Configuration
-
-## Tiling Windows Managers
-* [dwm - dynamic window manager](https://dwm.suckless.org/)
-* [i3 - improved improved improved]()
-
-## TODO
-- [ ] List of Windows Managers
-- [ ] Example
-- [ ] DWM
-- [ ] Config Files
-- [ ] Update References
-- [ ] Add photographs ?
 
 ## References
 * [PLUG Central Meetup](https://www.meetup.com/Philadelphia-Linux-User-Group-Meetup/events/244971579/)
