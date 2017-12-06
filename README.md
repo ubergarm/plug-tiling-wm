@@ -26,10 +26,10 @@ or
 * Blockchains / Decentrialized Apps
 
 #### Rhetorical Questions
-1. Where do you live and work in the stack?
 1. How do you experience Self and other?
 1. How does the left hand interface with the right hand?
-1. Correlation and Causation between Apple products and frequency of sexual activity? [wired](https://www.wired.com/2010/08/gadget-sex/)
+1. Correlation or Causation between Apple products and frequency of sexual activity? [wired](https://www.wired.com/2010/08/gadget-sex/)
+1. Chaos and Fractals?
 1. Will AI work for us, or will we work for AI, or will AI work for AI?
 
 ## Modern Smart Terminals
@@ -69,7 +69,6 @@ or
   - True Color vs 256
   - Editor
     + [vim 8.0+](https://github.com/vim/vim)
-
 * Status Bar / System Monitor
   - [slstatus](https://github.com/drkhsh/slstatus)
   - [conky](https://github.com/brndnmtthws/conky)
