@@ -97,6 +97,9 @@ or
 ## Demo
 Check out my system.
 
+* [screenshot](https://ubergarm.com/gifs/dwm-tiling-screenshot.png)
+* [standing desk](https://ubergarm.com/gifs/desk.jpg)
+
 #### `.xinitrc`
 ```bash
 ## setup monitor and resolution
