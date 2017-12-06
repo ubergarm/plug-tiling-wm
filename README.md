@@ -80,6 +80,7 @@ or
   - compton
   - nitrogen
   - xclip
+  - scrot
   - xscreensaver
 * Applications
   - mupdf
