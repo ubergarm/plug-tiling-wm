@@ -14,6 +14,9 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 * Teletype - `In the Beginning... Was the Command Line` essay by Neal Stephenson.
 * Dumb Terminals (Glass TTY)
 * Smart Terminals
+  - graphics cards
+  - 4k monitors
+  - psychophysics
 * Web Browsers
 * Mobile Devices
 * IoT
@@ -27,16 +30,23 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 1. Correlation and Causation between Apple products and frequency of sexual activity? [wired](https://www.wired.com/2010/08/gadget-sex/)
 1. Will AI work for us, or will we work for AI, or will AI work for AI?
 
-## Overview
-* Current Choices
-  - Apple Product with MacOS X
-  - Hackintosh with MacOS X
-  - Windows 10 Linux Subsystem Bash Shell (unofficial X server)
-  - Virtual Machines / Containers
+## Modern Smart Terminals
+* Apple hardware with MacOS X
+* Hackintosh
+* PC Windows 10 Linux Subsystem Bash Shell (plus unofficial X server) (Direct3D)
+* Virtual Machines / Containers
+* Linux Desktop
+  - X Windows (vs [Mir](https://wiki.ubuntu.com/Mir/)) (OpenGL vs [Vulkan](https://en.wikipedia.org/wiki/Vulkan_(API)))
+    + Unity / GTK+ - now defunct
+    + KDE / Qt
+    + Gnome / GTK+
+    + Lightweight / Various - custom
+    + Tiling Windows Managers / Various - custom
 
 ## Components
 * Desktop
-  - Multi-monitor
+  - Monitor(s)
+  - Video Card(s)
   - Resolution
   - Color Depth
   - Refresh
@@ -82,5 +92,7 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 
 ## References
 * [PLUG Central Meetup](https://www.meetup.com/Philadelphia-Linux-User-Group-Meetup/events/244971579/)
+* [Linux Desktop X Windows](https://en.wikipedia.org/wiki/Comparison_of_X_Window_System_desktop_environments)
+* [Steam Hardware & Software Survey](http://store.steampowered.com/hwsurvey#cat9)
 * [dwm - dynamic window manager](https://dwm.suckless.org/)
 * [Neal Stephenson](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line)
