@@ -1,6 +1,10 @@
 plug-tiling-wm
 ===
-Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
+*Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion*
+
+or
+
+*Drilling down on Linux Tiling Windows Managers from big bang to "ricing" your configuration with "dank" gaps.*
 
 [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
@@ -92,6 +96,7 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 
 ## References
 * [PLUG Central Meetup](https://www.meetup.com/Philadelphia-Linux-User-Group-Meetup/events/244971579/)
+* [dank ricing gaps](https://www.youtube.com/results?search_query=tiling+dank+gaps+i3)
 * [Linux Desktop X Windows](https://en.wikipedia.org/wiki/Comparison_of_X_Window_System_desktop_environments)
 * [Steam Hardware & Software Survey](http://store.steampowered.com/hwsurvey#cat9)
 * [dwm - dynamic window manager](https://dwm.suckless.org/)
