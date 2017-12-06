@@ -94,14 +94,18 @@ or
   - pulseaudio (only for firefox)
   - firefox quantum
 
+## DWM
+* [dwm tutorial](https://dwm.suckless.org/tutorial/)
+* [dwm patches](https://dwm.suckless.org/patches/)
+
 ## Demo
 Check out my system.
 
 * [screenshot](https://ubergarm.com/gifs/dwm-tiling-screenshot.png)
 * [standing desk](https://ubergarm.com/gifs/desk.jpg)
 
-#### `.xinitrc`
 ```bash
+## ~/.xinitrc
 ## setup monitor and resolution
 xrandr --newmode "4096x2160" 556.730  4096 4104 4136 4176  2160 2208 2216 2222 +hsync +vsync
 xrandr --addmode DP-0 4096x2160
