@@ -62,14 +62,15 @@ or
   - Floating
 * Terminal
   - Fonts
+    + [Dejavu Sans Mono patched for Powerline](https://github.com/powerline/fonts)
   - Editor
     + [vim 8.0+](https://github.com/vim/vim)
 * Status Bar / System Monitor
   - [slstatus](https://github.com/drkhsh/slstatus)
   - [conky](https://github.com/brndnmtthws/conky)
 * Menu / Launch Bar
-  - dmenu
-  - rofi
+  - [rofi](https://github.com/DaveDavenport/rofi)
+  - [dmenu](https://tools.suckless.org/dmenu/)
 * Utilities
   - xrandr
   - compton
