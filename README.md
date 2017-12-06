@@ -7,10 +7,27 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 ## Overview
 `In the Beginning... Was the Command Line` essay by Neal Stephenson.
 
-## TWM Components
-* Windows over a Desktop
-* Status Displays
-* Initiating Commands
+## Components
+* Desktop
+  - Multi-monitor
+  - Resolution
+  - Color Depth
+  - Refresh
+  - Transparency Effects
+  - Wallpaper
+* Windows
+  - Tiled
+  - Floating
+* Terminal
+  - Fonts
+  - Editor
+    + [vim 8.0+](https://github.com/vim/vim)
+* Status Bar / System Monitor
+  - [slstatus](https://github.com/drkhsh/slstatus)
+  - [conky](https://github.com/brndnmtthws/conky)
+* Menu / Launch Bar
+  - dmenu
+  - rofi
 
 ## Summary
 > Only computer hackers who have delved into the inconvenient guts of
