@@ -4,8 +4,34 @@ Philadelphia Linux User Group Meetup Tiling Windows Manager Discussion
 
 [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
+## Brief History of Human Machine Interfaces
+* Higgs Field Unified Field of Consciousness
+* Human Consciousness
+* Oral Language
+* Cuneiform Script
+* Abacus
+* Teletype - `In the Beginning... Was the Command Line` essay by Neal Stephenson.
+* Dumb Terminals (Glass TTY)
+* Smart Terminals
+* Web Browsers
+* Mobile Devices
+* IoT
+* Cloud
+* Blockchains / Decentrialized Apps
+
+#### Rhetorical Questions
+1. Where do you live and work in the stack?
+1. How do you experience Self and other?
+1. How does the left hand interface with the right hand?
+1. Correlation and Causation between Apple products and frequency of sexual activity? [wired](https://www.wired.com/2010/08/gadget-sex/)
+1. Will AI work for us, or will we work for AI, or will AI work for AI?
+
 ## Overview
-`In the Beginning... Was the Command Line` essay by Neal Stephenson.
+* Current Choices
+  - Apple Product with MacOS X
+  - Hackintosh with MacOS X
+  - Windows 10 Linux Subsystem Bash Shell (unofficial X server)
+  - Virtual Machines / Containers
 
 ## Components
 * Desktop
