@@ -150,3 +150,5 @@ exec dwm
 * [Steam Hardware & Software Survey](http://store.steampowered.com/hwsurvey#cat9)
 * [dwm - dynamic window manager](https://dwm.suckless.org/)
 * [Neal Stephenson](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line)
+
+![most interesting man meme](https://i.imgflip.com/20mh53.jpg)
