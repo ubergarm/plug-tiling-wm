@@ -61,10 +61,15 @@ or
     + [i3 - improved improved improved](https://i3wm.org/)
   - Floating
 * Terminal
-  - Fonts
+  - [st - simple terminal](https://st.suckless.org/)
+  - [xterm](http://xterminal.sourceforge.net/)
+  - [rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+  - Fonts (Unicode)
     + [Dejavu Sans Mono patched for Powerline](https://github.com/powerline/fonts)
+  - True Color vs 256
   - Editor
     + [vim 8.0+](https://github.com/vim/vim)
+
 * Status Bar / System Monitor
   - [slstatus](https://github.com/drkhsh/slstatus)
   - [conky](https://github.com/brndnmtthws/conky)
